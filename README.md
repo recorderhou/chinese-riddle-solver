@@ -11,3 +11,10 @@ For riddles with single character, we use the glyph based model directly. For ri
 - multi-choice-erinie.ipynb: bert for multiple choice
 - qagnn: the preprocessing code for Chinese of the paper "QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering"
 - riddlesense
+
+#### Reference
+
+```
+QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering. Michihiro Yasunaga, Hongyu Ren, Antoine Bosselut, Percy Liang, Jure Leskovec. NAACL 2021.
+https://github.com/michiyasunaga/qagnn
+```
